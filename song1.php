@@ -18,8 +18,8 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song1.php">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song2.php">Song 2</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
                           <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
@@ -128,6 +128,8 @@
                         echo "<br/>";
                         echo "<p><h6>[Solo 3]</h6></p>";
                         echo "<p><h6>[Repeat Chorus]</h6></p>";
+                        echo "<br/>";
+                        echo "<p> <h1>The End. </h1></p>";
 
 
 
