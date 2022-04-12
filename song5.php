@@ -41,50 +41,64 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Dust in the Wind</h2>
-                        <p class="lead">Kansas</p>
+                        <h2 class="text-primary">Have You Ever Seen The Rain</h2>
+                        <p class="lead">Creedence Clearwater Revival</p>
                         <?php
                             echo "<p><h6>Tuning: E A D G B E</h6></p>";
                         ?>
-                        <div p style="text-align:center;"><img src="Images/guitarchordsdust1.png" width="400" height="150"> <img src="Images/guitarchordsdust2.png" width="400" height="150"> </div>
+                        <div p style="text-align:center;"><img src="Images/guitarchordsrain1.png" width="400" height="120"> <img src="Images/guitarchordsrain2.png" width="350" height="120"> </div>
 
 
                         <?php
                         echo "<p><h6>[Intro]</h6></p>";
-                        echo "<p><h6>C Cmaj7 Cadd9 C Asus2 Asus4 Am Asus2</h6></p>";
-                        echo "<p><h6>Cadd9 C Cmaj7 Cadd9 Am Asus2 Asus4 Am</h6></p>";
+                        echo "<p><h6>Am    F/C    C    G    C</h6></p>";
                         echo "<br/>";
                         echo "<p><h6>[Verse]</h6></p>";
-                        echo "<p><h6>C     G/B  Am    G         Dm7           Am</h6></p>";
-                        echo "<p> I close my eyes only for a moment and a moment´s gone. </p>";
-                        echo "<p><h6>C     G/B  Am    G         Dm7           Am</h6></p>";
-                        echo "<p> All my dreams pass before my eyes a curiosity. </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> Someone told me long ago </p>";
+                        echo "<p><h6>C                                   G</h6></p>";
+                        echo "<p> There's a calm before the storm, I know </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> It's been coming for some time </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> When it's over, so they say </p>";
+                        echo "<p><h6>C                                   G</h6></p>";
+                        echo "<p> It'll rain a sunny day, I know </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> Shining down like water </p>";
                         echo "<br/>";
+
+
                         echo "<p><h6>[Chorus]</h6></p>";
-                        echo "<p><h6>D   G        Am    D            G           Am</h6></p>";
-                        echo "<p> Dust in the wind, all we are is dust in the wind. </p>";
+                        echo "<p><h6>F         G</h6></p>";
+                        echo "<p> I wanna know </p>";
+                        echo "<p><h6>C    C/B      Am    Am/G</h6></p>";
+                        echo "<p> Have you ever seen the rain </p>";    
+                        echo "<p><h6>F         G</h6></p>";
+                        echo "<p> I wanna know </p>";
+                        echo "<p><h6>C    C/B      Am    Am/G</h6></p>";
+                        echo "<p> Have you ever seen the rain </p>";
+                        echo "<p><h6>F         G        C</h6></p>";
+                        echo "<p> Coming down on a sunny day </p>";
                         echo "<br/>";
+
                         echo "<p><h6>[Verse]</h6></p>";
-                        echo "<p><h6>C     G/B  Am    G         Dm7           Am</h6></p>";
-                        echo "<p>Same old song, just a drop of water in the endless sea. </p>";
-                        echo "<p><h6>C     G/B  Am    G         Dm7           Am</h6></p>";
-                        echo "<p>All we do, crumbles to the ground though we refuse to see. </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> Yesterday and days before </p>";
+                        echo "<p><h6>C      G</h6></p>";
+                        echo "<p> Sun is cold and rain is hard, I know </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> Been that way for all my time </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> 'Til forever on it goes </p>";
+                        echo "<p><h6>C        G</h6></p>";
+                        echo "<p> Through the circle fast and slow, I know </p>";
+                        echo "<p><h6>C</h6></p>";
+                        echo "<p> It can't stop, I wonder </p>";
                         echo "<br/>";
-                        echo "<p><h6>[Chorus]</h6></p>";
-                        echo "<p><h6>D   G        Am    D            G           Am</h6></p>";
-                        echo "<p> Dust in the wind, all we are is dust in the wind. </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Verse]</h6></p>";
-                        echo "<p><h6>C     G/B  Am    G         Dm7           Am</h6></p>";
-                        echo "<p> Don't hang on, nothing lasts forever but the earth and sky. </p>";
-                        echo "<p><h6>C        G5 Am  G                  Dm7              Am</h6></p>";
-                        echo "<p> It slips a-way all your money won´t another minute buy. </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Chorus]</h6></p>";
-                        echo "<p><h6>D   G        Am    D            G           Am</h6></p>";
-                        echo "<p> Dust in the wind, all we are is dust in the wind. </p>";
-                        echo "<p><h6>D   G        Am    D            G           Am</h6></p>";
-                        echo "<p> Dust in the wind, all we are is dust in the wind. </p>";
+
+
+                        echo "<p><h6>[Repeat Chorus 2x]</h6></p>";
                         echo "<br/>";
                         echo "<p> <h1>The End. </h1></p>";
 
