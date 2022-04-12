@@ -42,119 +42,12 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Touch By Touch</h2>
-                        <p class="lead">Joy</p>
-                        <?php
-                            echo "<p><h6>Tuning: E A D G B E</h6></p>";
-                        ?>
-                        <div class="col-lg-6 mb-2 pr-lg-1"><img src="Images/guitarchordstouch.png" width="300" height="110"> </div>
+                        <h2 class="text-primary">Enjoy!</h2>
+                        <p class="lead">the lyrics</p>
+                        
+                        <div p style="text-align:center;"><img src="Images/catto-1.jpg" width="300" height="500"> </div>
 
-
-                        <?php
-                        echo "<p><h6>Cm         Fm    </h6></p>";
-                        echo "<p> Touch by touch </p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p> You're my all time lover </p>";
-                        echo "<p><h6>Cm         Fm    </h6></p>";
-                        echo "<p> Skin to skin </p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p>Come under my cover </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Solo 1]</h6></p>";
-                        echo "<p><h6>Cm Eb Bb Cm</h6></p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Verse 1]</h6></p>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>When I feel the time is right </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>And you're staying by my side </p>";
-                        echo "<p><h6>Bb</h6></p>";
-                        echo "<p>And the love you give to me </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>Makes my heart beat </p>";
-                        echo "<br/>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>When my fantasies fly away </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>But my feelings make me stay </p>";
-                        echo "<p><h6>Bb</h6></p>";
-                        echo "<p>I see the fire in your eyes </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>It makes my heart beat </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Chorus]</h6></p>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>Do it, we still do it </p>";
-                        echo "<p><h6>Fm</h6></p>";
-                        echo "<p>Night and day</p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p>You're my all time lover</p>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>Do it, we still do it</p>";
-                        echo "<p><h6>Fm</h6></p>";
-                        echo "<p>In a Way</p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p>Like there is no other</p>";
-                        echo "<p><h6>Cm         Fm    </h6></p>";
-                        echo "<p>Touch by touch</p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p>You're my all time lover</p>";
-                        echo "<p><h6>Cm         Fm    </h6></p>";  
-                        echo "<p>Skin to skin</p>";
-                        echo "<p><h6>Bb                 Eb</h6></p>";
-                        echo "<p>Come under my cover </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Solo 2]</h6></p>";
-                        echo "<p><h6>Cm Eb Bb Cm</h6></p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Verse 2]</h6></p>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>When my heart is full of love </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>It makes me a total dove </p>";
-                        echo "<p><h6>Bb</h6></p>";
-                        echo "<p>Love's the game that we play </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>Night and day</p>";
-                        echo "<p><h6>Cm</h6></p>";
-                        echo "<p>When our love is clear and bright </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>It's our way to see the light </p>";
-                        echo "<p><h6>Bb</h6></p>";
-                        echo "<p>There's a fire in our hearts </p>";
-                        echo "<p><h6>Eb</h6></p>";
-                        echo "<p>Night and day</p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Repeat Chorus]</h6></p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Solo 3]</h6></p>";
-                        echo "<p><h6>[Repeat Chorus]</h6></p>";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                
-
-
-                        ?>
+                        
                     </div>
                 </div>
             </div>

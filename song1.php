@@ -46,7 +46,7 @@
                         <?php
                             echo "<p><h6>Tuning: E A D G B E</h6></p>";
                         ?>
-                        <div class="col-lg-6 mb-2 pr-lg-1"><img src="Images/guitarchordstouch.png" width="300" height="110"> </div>
+                        <div p style="text-align:center;"><img src="Images/guitarchordstouch.png" width="300" height="110"> </div>
 
 
                         <?php
