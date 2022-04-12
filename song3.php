@@ -41,12 +41,12 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Dust in the Wind</h2>
-                        <p class="lead">Kansas</p>
+                        <h2 class="text-primary">House of The Rising Sun</h2>
+                        <p class="lead">The Animals</p>
                         <?php
                             echo "<p><h6>Tuning: E A D G B E</h6></p>";
                         ?>
-                        <div class="col-lg-6 mb-2 pr-lg-1"><img src="Images/guitarchordsdust1.png" width="400" height="150"> <img src="Images/guitarchordsdust2.png" width="400" height="150"> </div>
+                        <div class="col-lg-6 mb-2 pr-lg-1"><img src="Images/guitarchordssun1.png" width="400" height="150"> <img src="Images/guitarchordssun2.png" width="400" height="150"> </div>
 
 
                         <?php
