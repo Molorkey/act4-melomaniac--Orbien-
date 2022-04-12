@@ -30,10 +30,9 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to ChocoMingBeats</h1>
-                <p class="lead">Kahit kailan hindi magiging sapat ang never enough uwu </p>
-                <p class="lead">ChocoMingBeats presents you with the greatest all time hits of the year! </p>
-                <p class="lead">You can get up to 1 month of free trial if you refer us to your friends! </p>
+                <h1 class="fw-bolder">ChocoMingBeats</h1>
+                
+                
                 
             </div>
         </header>
@@ -139,7 +138,7 @@
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Vincent Ray Valenzuela Orbien </p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
