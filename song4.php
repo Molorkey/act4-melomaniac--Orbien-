@@ -41,17 +41,17 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">House of The Rising Sun</h2>
-                        <p class="lead">The Animals</p>
+                        <h2 class="text-primary">A Horse With No Name</h2>
+                        <p class="lead">America</p>
                         <?php
                             echo "<p><h6>Tuning: E A D G B E</h6></p>";
                         ?>
-                        <div p style="text-align:center;"><img src="Images/guitarchordssun1.png" width="400" height="150"> <img src="Images/guitarchordssun2.png" width="400" height="150"> </div>
+                        <div p style="text-align:center;"><img src="Images/guitarchordshorse1.png" width="400" height="150"> <img src="Images/guitarchordshorse2.png" width="400" height="150"> </div>
 
 
                         <?php
                         echo "<p><h6>[Intro]</h6></p>";
-                        echo "<p><h6>| Am | C | D | F |</h6></p>";
+                        echo "<p><h6>Em    Em   D6/9  D6/9  x2</h6></p>";
                         echo "<p><h6>| Am | E | Am | E |</h6></p>";
                         echo "<br/>";
                         echo "<p><h6>[Verse 1]</h6></p>";
