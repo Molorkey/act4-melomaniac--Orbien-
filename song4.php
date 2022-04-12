@@ -52,75 +52,102 @@
                         <?php
                         echo "<p><h6>[Intro]</h6></p>";
                         echo "<p><h6>Em    Em   D6/9  D6/9  x2</h6></p>";
-                        echo "<p><h6>| Am | E | Am | E |</h6></p>";
                         echo "<br/>";
                         echo "<p><h6>[Verse 1]</h6></p>";
-                        echo "<p><h6> Am   C        D          F</h6></p>";
-                        echo "<p> There is a house in New Orleans </p>";
-                        echo "<p><h6> Am       C      E</h6></p>";
-                        echo "<p> They call the Rising Sun </p>";
-                        echo "<p><h6>Am       C       D           F</h6></p>";
-                        echo "<p> And it's been the ruin of many a poor boy </p>";
-                        echo "<p><h6>  Am     E         | Am | C | D | F | Am | E | Am | E |</h6></p>";
-                        echo "<p> And God, I know, I'm one  </p>";
+                        echo "<p><h6>Em                D6/9</h6></p>";
+                        echo "<p> On the first part of the journey</p>";
+                        echo "<p><h6> Em                 D6/9</h6></p>";
+                        echo "<p> I was looking at all the life </p>";
+
+                        echo "<p><h6>Em                   D6/9</h6></p>";
+                        echo "<p> There were plants and birds and rocks and things </p>";
+                        echo "<p><h6>   Em                 D6/9</h6></p>";
+                        echo "<p> There were sand and hills and rings </p>";
+
+
+                        echo "<p><h6>Em                      D6/9</h6></p>";
+                        echo "<p>The first thing I met was a fly with a buzz</p>";
+                        echo "<p><h6>Em                      D6/9</h6></p>";
+                        echo "<p>And the sky with no clouds</p>";
+                        echo "<p><h6>Em                      D6/9</h6></p>";
+                        echo "<p>The heat was hot and the ground was dry</p>";
+                        echo "<p><h6>Em                      D6/9</h6></p>";
+                        echo "<p>But the air was full of sound</p>";
                         echo "<br/>";
+
+
+
+                        echo "<p><h6> [Chorus]</h6></p>";
+                        echo "<p><h6> Em9                          Dmaj9</h6></p>";
+                        echo "<p>I've been through the desert on a horse with no name </p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>It felt good to be out of the rain</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>In the desert you can remember your name</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>'Cause there ain't no one for to give you no pain</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<br/>";
+
+
                         echo "<p><h6>[Verse 2]</h6></p>";
-                        echo "<p><h6> Am   C        D          F</h6></p>";
-                        echo "<p>My mother was a tailor </p>";
-                        echo "<p><h6>Am       C        E</h6></p>";
-                        echo "<p>She sewed my new blue jeans </p>";
-                        echo "<p><h6> Am   C        D          F</h6></p>";
-                        echo "<p>My father was a gambling man </p>";
-                        echo "<p><h6>  Am     E         | Am | C | D | F | Am | E | Am | E |</h6></p>";
-                        echo "<p>Down in New Orleans.  </p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> After two days in the desert sun </p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> My skin began to turn red </p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> After three days in the desert fun</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> I was looking at a river bed</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> And the story it told of a river that flowed</p>";    
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> Made me sad to think it was dead</p>";
                         echo "<br/>";
+
+                        echo "<p><h6>[Repeat Chorus]</h6></p>";
+                        echo "<br/>";
+
+
                         echo "<p><h6>[Verse 3]</h6></p>";
-                        echo "<p><h6> Am   C        D          F</h6></p>";
-                        echo "<p> Now the only thing a gambler needs  </p>";
-                        echo "<p><h6>Am       C     E</h6></p>";
-                        echo "<p>Is a suitcase and a trunk </p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p> And the only time, he's satisfied,  </p>";
-                        echo "<p><h6>  Am     E         | Am | C | D | F | Am | E | Am | E |</h6></p>";
-                        echo "<p>Is when he's on a drunk    </p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> After nine days I let the horse run free</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p> Cause the desert had turned to sea</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>There were plants and birds and rocks and things</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>There were sand and hills and rings</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>The ocean is a desert with its life underground</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>And a perfect disguise above</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>Under the cities lies a heart made of ground</p>";
+                        echo "<p><h6>  Em                   D6/9</h6></p>";
+                        echo "<p>But the humans will give no love</p>";
                         echo "<br/>";
-                        echo "<p><h6>[SOLO]</h6></p>";
-                        echo "<p><h6>| Am | C | D | F |</h6></p>";
-                        echo "<p><h6>| Am | C | E | % |</h6></p>";
-                        echo "<p><h6>| Am | C | D | F |</h6></p>";
-                        echo "<p><h6>| Am | E |</h6></p>";
-                        echo "<p><h6>| Am | C/E | D | F |</h6></p>";
-                        echo "<p><h6>| Am | E | Am | E |</h6></p>";
+
+                        echo "<p><h6>[Repeat Chorus]</h6></p>";
                         echo "<br/>";
-                        echo "<p><h6>[Verse 4]</h6></p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>O, mother, tell your children  </p>";
-                        echo "<p><h6>Am       C     E</h6></p>";
-                        echo "<p>Not to do what I have done </p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>Spend your lives in sin and misery </p>";
-                        echo "<p><h6>  Am     E         | Am | C | D | F | Am | E | Am | E |</h6></p>";
-                        echo "<p>In the House of Rising Sun  </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Verse 5]</h6></p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>Well, I got one foot on the platform  </p>";
-                        echo "<p><h6>Am       C     E</h6></p>";
-                        echo "<p>The other foot on the train </p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>I'm going back to New Orleans  </p>";
-                        echo "<p><h6>  Am     E         | Am | C | D | F | Am | E | Am | E |</h6></p>";
-                        echo "<p>To wear that ball and chain  </p>";
-                        echo "<br/>";
-                        echo "<p><h6>[Verse 6]</h6></p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>Well, there is a house in New Orleans </p>";
-                        echo "<p><h6>Am       C     E</h6></p>";
-                        echo "<p>They call the Rising Sun </p>";
-                        echo "<p><h6>Am   C     D         F</h6></p>";
-                        echo "<p>And it's been the ruin of many a poor boy </p>";
-                        echo "<p><h6>    Am     E7      | Am | C | D | F7 | Am | E7 |</h6></p>";
-                        echo "<p>And God, I know, I'm one </p>";
+
+
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+                        echo "<p><h6>  Em9                   Dmaj9</h6></p>";
+                        echo "<p>La, la, la lala la la la, la, la</p>";
+
                         echo "<br/>";
                         echo "<p> <h1>The End. </h1></p>";
 
